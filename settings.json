@@ -1,0 +1,20 @@
+{
+    "self_mode": false,
+	"autobio": true,
+	"antihidetag": true,
+	"user_register": true,
+	"anti_delete" : false,
+	"anticall": true,
+	"auto_welcome_msg": false,
+	"auto_leave_msg": false,
+	"prefix": "#",
+	"language":"ind",
+	"ownerNumber": "6285725220424",
+	"ownerNumberr": "6285725220424",
+	"cr": "@𝐀𝐧𝐝𝐢𝐠𝐚𝐧𝐳",
+	"ownername": "𝐀𝐧𝐝𝐢𝐠𝐚𝐧𝐳",
+	"botname":"𝐀𝐧𝐝𝐢𝐁𝐨𝐭𝐳",
+	"thumb":"thumbnail_1.jpg",
+	"fakethumb":"thumbnail_1.jpg", 
+	"fake": " 「  𝐀𝐧𝐝𝐢𝐁𝐨𝐭𝐳  」\nCreated By @𝐀𝐧𝐝𝐢𝐆𝐚𝐧𝐳"
+}
